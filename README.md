@@ -1,8 +1,14 @@
-# Machine Learning - KIT-integration-
-# ANDROID 
-### This andoid application is about the integration of the 'ML KIT' to bring Google’s machine learning expertise to mobile developers.
-### It contain the OCR technique as well as TTS. 
-## :)
+# ML-KIT Integration 🔬📱
 
-![photo_2021-05-24_14-12-26](https://user-images.githubusercontent.com/55410084/119352975-37acf780-bc9a-11eb-9b2f-1705503347f1.jpg)
+Welcome to the ML-KIT Integration project! This is a sample project that demonstrates how to integrate Google's ML Kit into an Android application.
+
+## Overview 📝
+
+ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package. With ML Kit's face detection and recognition features, you can detect and recognize faces in images and videos. You can also use ML Kit to recognize text in images, identify landmarks, and much more.
+It contain the OCR (Optical Character Recognition) technique as well as TTS (Text To Speech). 
+
+## Contact 📧
+If you have any questions or concerns, please feel free to contact me at [ilyasirgui@gmail.com](mailto:ilyasirgui@gmail.com).
+
+![Screenshot](home.png)
 
