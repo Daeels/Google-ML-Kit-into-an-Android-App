@@ -10,5 +10,4 @@ It contain the OCR (Optical Character Recognition) technique as well as TTS (Tex
 ## Contact 📧
 If you have any questions or concerns, please feel free to contact me at [ilyasirgui@gmail.com](mailto:ilyasirgui@gmail.com).
 
-![Screenshot](home.png)
-
+![home](https://user-images.githubusercontent.com/55410084/232165994-152b5a18-d42a-4cb2-8eb5-9908751dfa5f.png)
